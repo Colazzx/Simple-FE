@@ -1,0 +1,13 @@
+.animation {
+  animation: updown 3s ease-in-out infinite alternate-reverse both;
+}
+
+@keyframes updown {
+  0%,
+  100% {
+    transform: translateY(10px);
+  }
+  50% {
+    transform: translateY(-10px);
+  }
+}

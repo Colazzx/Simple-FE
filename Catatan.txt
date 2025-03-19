@@ -1,0 +1,6 @@
+Ekstensi:
+- Es7 React/Redux
+
+Cara react bootstrap:
+1. npm install react-bootstrap boot strap
+2. import 'bootstrap/dist/css/bootstrap.min.css
